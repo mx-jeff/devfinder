@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 4024,
+  "expoServerNgrokUrl": "https://zj-dfw.anonymous.mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.zj-dfw.anonymous.mobile.exp.direct",
+  "ngrokPid": 2576,
+  "devToolsPort": 19002
+}
